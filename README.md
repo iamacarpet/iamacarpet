@@ -13,8 +13,6 @@
     <img alt="Google Cloud Platform - Cloud Run" height="75" src="images/products/cloud_run.png">
     &nbsp;&nbsp;
     <img alt="Google Cloud Platform - Operations Suite" height="75" src="images/products/stackdriver.png">
-    &nbsp;&nbsp;
-    <img alt="Chrome OS" height="75" src="images/products/chrome.png">
     <br>
     <br>
     <img alt="GoLang" height="75" src="images/products/go.png">
@@ -28,13 +26,16 @@
     <br>
     <img alt="Shell - CLI" height="75" src="images/products/shell.png">
     &nbsp;&nbsp;
-    <img alt="Linux" height="75" src="images/products/linux.png">
-    &nbsp;&nbsp;
-    <img alt="Kubernetes" height="75" src="images/products/docker.png">
+    <img alt="Docker" height="75" src="images/products/docker.png">
     &nbsp;&nbsp;
     <img alt="Kubernetes" height="75" src="images/products/kubernetes.png">
+    <br>
+    <br>
+    <img alt="Linux" height="75" src="images/products/linux.png">
     &nbsp;&nbsp;
     <img alt="Windows" height="75" src="images/products/windows.png">
+    &nbsp;&nbsp;
+    <img alt="Chrome OS" height="75" src="images/products/chrome.png">
 </div>
 
 <!--
