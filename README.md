@@ -4,6 +4,37 @@
     <img alt="Google Cloud - Professional Cloud Architect Certification" width="150" src="images/professional-cloud-architect-certification.png">
     &nbsp;&nbsp;
     <img alt="Google Cloud - Professional Cloud Developer Certification" width="150" src="images/professional-cloud-developer-certification.png">
+    <br>
+    <br>
+    <img alt="Google Cloud Platform - GCP" height="75" src="images/products/gcp.png">
+    &nbsp;&nbsp;
+    <img alt="Google Cloud Platform - App Engine" height="75" src="images/products/app_engine.png">
+    &nbsp;&nbsp;
+    <img alt="Google Cloud Platform - Cloud Run" height="75" src="images/products/cloud_run.png">
+    &nbsp;&nbsp;
+    <img alt="Google Cloud Platform - Operations Suite" height="75" src="images/products/stackdriver.png">
+    &nbsp;&nbsp;
+    <img alt="Chrome OS" height="75" src="images/products/chrome.png">
+    <br>
+    <br>
+    <img alt="GoLang" height="75" src="images/products/go.png">
+    &nbsp;&nbsp;
+    <img alt="PHP" height="75" src="images/products/php.png">
+    &nbsp;&nbsp;
+    <img alt="MySQL" height="75" src="images/products/mysql.png">
+    &nbsp;&nbsp;
+    <img alt="Laravel" height="75" src="images/products/laravel.png">
+    <br>
+    <br>
+    <img alt="Shell - CLI" height="75" src="images/products/shell.png">
+    &nbsp;&nbsp;
+    <img alt="Linux" height="75" src="images/products/linux.png">
+    &nbsp;&nbsp;
+    <img alt="Kubernetes" height="75" src="images/products/docker.png">
+    &nbsp;&nbsp;
+    <img alt="Kubernetes" height="75" src="images/products/kubernetes.png">
+    &nbsp;&nbsp;
+    <img alt="Windows" height="75" src="images/products/windows.png">
 </div>
 
 <!--
