@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+<div align="center">
+    <img alt="Google Cloud - Professional Cloud Architect Certification" width="150" src="images/professional-cloud-architect-certification.png">
+    &nbsp;&nbsp;
+    <img alt="Google Cloud - Professional Cloud Developer Certification" width="150" src="images/professional-cloud-developer-certification.png">
+</div>
+
 <!--
 **iamacarpet/iamacarpet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
